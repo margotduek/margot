@@ -2929,7 +2929,7 @@ function DaysLeft() {
     this.autoplay = true;
     this.numberColor = 'yellow';
     this.numberFont = '30px Abel';
-    this.text = 'Days Left';
+    this.text = 'Desarrollos';
     this.textColor = 'white';
     this.textFont = '30px Abel';
     this.data = "";
@@ -3509,8 +3509,8 @@ function initDaysLeft(block, options) {
                     numberFont: '30px Abel', // font
                     textColor: 'rgba(0,0,0,0.5)',
                     textFont: '18px Abel',
-                    data: "August 04, 2017", // YOUR DATA
-                    text: 'DAYS LEFT', // text
+                    // data: "August 04, 2020", // YOUR DATA
+                    text: 'DUEK', // text
                     lineColor: 'rgba(0,0,0,0.5)'
                 }
             );
@@ -3526,8 +3526,8 @@ function initDaysLeft(block, options) {
                     numberFont: '30px Abel', // font
                     textColor: 'rgba(255,255,255,0.5)',
                     textFont: '18px Abel',
-                    data: "August 04, 2017", // YOUR DATA
-                    text: 'DAYS LEFT', // text
+                    // data: "August 04, 2020", // YOUR DATA
+                    text: 'DUEK', // text
                     lineColor: 'rgba(255,255,255,0.5)'
                 }
             );
