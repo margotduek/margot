@@ -2225,7 +2225,7 @@ video#bgvid {
 
 /* line 19, ../sass/_partials/_background.scss */
 .image_bg {
-  background: rgba(0, 0, 0, 0.5) url(../img/bg.jpg) 50% 50% fixed;
+  background: rgba(0, 0, 0, 0.5) url(../img/bg.webp) 50% 50% fixed;
   background-size: cover;
 }
 
@@ -2546,7 +2546,7 @@ video#bgvid {
 
 /* line 406, ../sass/_partials/_background.scss */
 .video {
-  background: url(../img/video_bg.jpg);
+  background: url(../img/video_bg.webp);
   background-size: cover;
 }
 /* line 412, ../sass/_partials/_background.scss */
@@ -3032,7 +3032,7 @@ video#bgvid {
 /* INVERSE VERSION */
 /* line 2, ../sass/_partials/_inverse.scss */
 body.inverse {
-  background: rgba(0, 0, 0, 0.5) url(../img/inverse_bg.jpg) 50% 50% fixed;
+  background: rgba(0, 0, 0, 0.5) url(../img/inverse_bg.webp) 50% 50% fixed;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
