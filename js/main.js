@@ -3947,7 +3947,7 @@ function initDaysLeft(block, options) {
                 {
                     position: new google.maps.LatLng(51.523751, -0.158435),
                     title: "Property Location",
-                    icon: 'img/map-cursor.png'
+                    // icon: 'img/map-cursor.png'
                 }
             );
             var map = new google.maps.Map(document.getElementById('map-canvas'), mapOptions);
